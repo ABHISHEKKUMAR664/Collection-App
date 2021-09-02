@@ -1,9 +1,9 @@
 import './App.css';
-import Api from './component/Api';
+import Api from './component/color/Api';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App ">
       <Api/>
     </div>
   );
