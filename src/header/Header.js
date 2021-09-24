@@ -7,6 +7,7 @@ const Header = () => {
        <nav classname="nav-bar">
        <a className="nav-item" href="/color">Color</a>
        <a className="nav-item" href="/pokemon">Pokemon</a>
+       <a className="nav-item" href="/monojit">Monojit</a>
 
        </nav>
        </header>
